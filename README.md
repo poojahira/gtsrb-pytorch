@@ -26,7 +26,7 @@ where ```--data``` specifies the name of the data folder
 
 <h2>Evaluation</h2>
 
-To generate the file of predictions on the test set, use the command:
+To generate the CSV file of predictions on the test set, use the command:
 ```bash
 python evaluate.py --data data --model model/model_40.pth
 ```
